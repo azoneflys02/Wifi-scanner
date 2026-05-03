@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Scout",
+  "description": "Find nearby public WiFi hotspots, cafes, and libraries with ease. Plan your remote work blocks or just stay connected on the go.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
